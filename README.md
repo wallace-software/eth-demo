@@ -1,6 +1,7 @@
 # Eth Demo
 
 A modern web application built with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
+
 This project was a demo repo by me to explore ethereums web3 packages. You can connect with your wallet, view balances across blockchains, and more.
 
 > Originally developed under my web3 alias, now being showcased under **@wallace-software**.
